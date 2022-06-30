@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # 2-args.py
-# Leul K
+# Leul k
+if __name__ == "__main__":
     import sys
 
     count = len(sys.argv) - 1
